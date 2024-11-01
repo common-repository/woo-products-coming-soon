@@ -1,0 +1,44 @@
+/* Woocommerce Products Coming Soon Stylesheet*/
+
+.coming-soon-text,
+.coming-soon-date,
+.clock{
+	float:left;
+	width:100%;
+	padding:12px 0px;
+}
+
+.coming-soon-text h2{
+	margin:0px;
+	color:#9bc43a;
+}
+.coming-soon-date{
+	padding-top:0px;
+}
+
+.clock .column{
+	text-align:center;
+	padding:0 8px 0 0;
+	width:68px;
+}
+
+.clock .column .timer{
+	font-size:22px;
+	font-weight:700;
+	line-height:40px;
+	border-bottom:1px solid;
+	border-color:#9bc43a;
+}
+.clock .column .text{
+	color:#000;
+	line-height:30px;
+	font-size:12px;
+}
+
+.coming_soon_admin{
+    background:#eee;
+}
+.coming_soon_admin .coming_soon_date_field {
+    margin-bottom:0px;
+    padding-bottom:9px;
+}
